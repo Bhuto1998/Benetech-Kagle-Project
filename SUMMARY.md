@@ -6,3 +6,4 @@
 ## Documentation
 
 * [ResNet](documentation/resnet.md)
+* [ResNet 50 Implementation](documentation/resnet-50-implementation.md)
